@@ -2,7 +2,8 @@
 
 🎓 Master of Engineering in **Financial Technology** @ Duke University
 💻 Blockchain Engineer | Full-Stack Developer | Researcher  | Blogger
-🌍 Durham, NC | [LinkedIn](https://www.linkedin.com/in/pinyangchendev/) | [Portfolio](https://www.chenpinyangdev.com)  
+🌍 Durham, NC
+👋 [My Blog](https://www.chenpinyangdev.com)  
 
 ---
 💻 Built [**LedgerVest PoC**](www.myledgervest.com) a funraising platform.
