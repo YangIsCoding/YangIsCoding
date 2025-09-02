@@ -1,8 +1,11 @@
 ## Hi there 👋 I'm Pin-Yang Chen  
 
 🎓 Master of Engineering in **Financial Technology** @ Duke University
+
 💻 Blockchain Engineer | Full-Stack Developer | Researcher  | Blogger
+
 🌍 Durham, NC
+
 👋 [My Blog](https://www.chenpinyangdev.com)  
 
 ---
