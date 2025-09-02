@@ -15,6 +15,8 @@
 
 👋 Check out [hormonizatin platform PoC](https://www.youtube.com/watch?v=Z1A31aEaDcM&t=3s) we built for DTCC!
 
+🌍 Check out the [autditing system PoC](https://github.com/CAFECA-IO/auditing_system) I built on Sepolia.
+
 ---
 
 ### 🛠 Tech Stack  
