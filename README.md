@@ -6,7 +6,9 @@
 
 ---
 💻 Built [**LedgerVest PoC**](www.myledgervest.com) a funraising platform.
+
 🌍 Built a [**smart contract**](https://www.chenpinyangdev.com/blog/1)t system with me! 
+
 👋 Check out [hormonizatin platform PoC](https://www.youtube.com/watch?v=Z1A31aEaDcM&t=3s) we built for DTCC!
 
 ---
