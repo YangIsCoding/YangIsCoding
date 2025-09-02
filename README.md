@@ -1,30 +1,13 @@
 ## Hi there 👋 I'm Pin-Yang Chen  
 
 🎓 Master of Engineering in **Financial Technology** @ Duke University
-💻 Blockchain Engineer | Full-Stack Developer | Researcher  
+💻 Blockchain Engineer | Full-Stack Developer | Researcher  | Blogger
 🌍 Durham, NC | [LinkedIn](https://www.linkedin.com/in/pinyangchendev/) | [Portfolio](https://www.chenpinyangdev.com)  
 
 ---
-
-### 🌱 What I’m Learning
-- Advanced blockchain security.  
-- DevOps scaling with **Docker, Kubernetes, Kafka**.  
-
----
-
-### 👯 Collaboration Interests
-- Blockchain infrastructure, Web3 protocols, DeFi applications.  
-- Full-stack projects leveraging **Next.js + Prisma + Redis + Docker**.  
-- Cross-chain risk management and financial modeling.  
-
----
-
-### 💬 Ask Me About
-- **Blockchain**: Solidity, Rust, Ethereum, Solana, Hardhat, Web3.js, Ethers.js  
-- **Backend**: Node.js, Prisma, REST APIs, Redis, Docker, Kubernetes  
-- **Frontend**: Next.js, Flutter, Unity, Microfrontend (Single-SPA / @micro-zoe/micro-app)  
-- **Data/ML**: Python, PyTorch, GARCH modeling, NEAT  
- 
+💻 Built [**LedgerVest PoC**](www.myledgervest.com) a funraising platform.
+🌍 Built a [**smart contract**](https://www.chenpinyangdev.com/blog/1)t system with me! 
+👋 Check out [hormonizatin platform PoC](https://www.youtube.com/watch?v=Z1A31aEaDcM&t=3s) we built for DTCC!
 
 ---
 
@@ -37,6 +20,5 @@
 ### 📊 GitHub Stats  
 
 ![YangIsCoding's GitHub stats](https://github-readme-stats.vercel.app/api?username=YangIsCoding&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YangIsCoding&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YangIsCoding&theme=radical)  
 
